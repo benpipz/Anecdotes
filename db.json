@@ -1,0 +1,82 @@
+{
+  "anecdotes": [
+    {
+      "content": "ben",
+      "id": "0",
+      "votes": 20,
+      "visible": true
+    },
+    {
+      "content": "asdasdasdads",
+      "id": "14015",
+      "votes": 7,
+      "visible": true
+    },
+    {
+      "content": "benaa",
+      "id": "79047",
+      "votes": 6,
+      "visible": true
+    },
+    {
+      "content": "woooot",
+      "id": "77022",
+      "votes": 5,
+      "visible": true
+    },
+    {
+      "content": "asdasdasd",
+      "id": "14514",
+      "votes": 0,
+      "visible": true
+    },
+    {
+      "content": "asdasdasd",
+      "id": "49526",
+      "votes": 1,
+      "visible": true
+    },
+    {
+      "content": "asdasdasdxzczxc",
+      "id": "16756",
+      "votes": 0,
+      "visible": true
+    },
+    {
+      "content": "supaz",
+      "id": "18755",
+      "votes": 0,
+      "visible": true
+    },
+    {
+      "content": "whats upppp",
+      "id": "21945",
+      "votes": 0,
+      "visible": true
+    },
+    {
+      "content": "new123",
+      "id": "16832",
+      "votes": 9,
+      "visible": true
+    },
+    {
+      "content": "asdasdasdasd",
+      "id": "59723",
+      "votes": 3,
+      "visible": true
+    },
+    {
+      "content": "asdasdasdasd",
+      "id": "92061",
+      "votes": 0,
+      "visible": true
+    },
+    {
+      "content": "asdasdas",
+      "id": "68967",
+      "votes": 0,
+      "visible": true
+    }
+  ]
+}
