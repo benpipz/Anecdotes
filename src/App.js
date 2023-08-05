@@ -6,7 +6,7 @@ import { AnecdoteContextProvider } from "./components/NotificationContext";
 const App = () => {
   return (
     <AnecdoteContextProvider>
-      <h3>Anecdote app</h3>
+      <h3>Anecdotee app</h3>
       <Notification />
       <AnecdoteForm />
       <AnecdoteList />
